@@ -1,1 +1,1 @@
-Is a number that can be expressed as $\frac{p}{q}$ where $p,q\in\mathbb{R}$
+Is a number that could be expressed as $\frac{p}{q}$ where $p,q\in\mathbb{R}$.
