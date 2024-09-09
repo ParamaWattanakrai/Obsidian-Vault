@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "4afbdddcccda1370",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f2c5e7287e154bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccedf61f20e54cad",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Data Types.canvas",
+                "viewState": {
+                  "x": 635.1824601052206,
+                  "y": 879.3001160100378,
+                  "zoom": -1.006668692827295
+                }
+              }
+            }
+          },
+          {
+            "id": "9770d9c8fbf4b80c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan/Quick Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80cde44e21d60569",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Complex Number/Real Number/Real Number.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41a49c0e655c926b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Complex Number/Real Number/Rational Number.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b88d91e2f869af4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Number System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b6018cadda5378e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability/Law of Total Probability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "960f112242b55acb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a80c240fea670dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6c31d6dce458c84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "244e06b2d634dce7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "70a2f40139756bdf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325
+  },
+  "right": {
+    "id": "65453208df858274",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dbf93764d958095",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fb4dfbbadcf4a1f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Complex Number/Real Number/Rational Number.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "417de0e1be9e0a63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Complex Number/Real Number/Rational Number.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd1f10f2a9535fb8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b4a1c6913e9b113a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Complex Number/Real Number/Rational Number.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "41a49c0e655c926b",
+  "lastOpenFiles": [
+    "Complex Number/Real Number/Real Number.md",
+    "Complex Number/Real Number/Rational Number.md",
+    "Complex Number/Real Number/Real Number 1.md",
+    "Complex Number/Complex Number Tree.canvas",
+    "Branches of Mathematics.canvas",
+    "Complex Number",
+    "Set Theory/Universal Set.md",
+    "Complex Number/Real Number",
+    "Complex Number/Real Number",
+    "Complex Number",
+    "Set Theory/Set Theory.md",
+    "Set Theory/Set.md",
+    "Plan/To Learn.md",
+    "Plan/Quick Note.md",
+    "BijectiveFunction.md",
+    "Assembler vs Compiler vs Interpreter.md",
+    "Set Theory/Subset.md",
+    "Set Theory/Set-Builder Notation.md",
+    "Set Theory/Roster Notation.md",
+    "Set Theory/Cardinal Number.md",
+    "Set Theory/Disjoint Sets.md",
+    "Set Theory/Empty Set.md",
+    "Set Theory/Power Set.md",
+    "Set Theory/Algebra of Sets.md",
+    "Signed Number Representations.md",
+    "Computer Number System.md",
+    "Regression Model Formulas.md",
+    "Data Types.canvas",
+    "Probability/Tree Diagram.md",
+    "Probability/Bayes' Theorem.md",
+    "Probability/Conditional Probability.md",
+    "Probability/Simple Bayesian Learning.md",
+    "Probability/Bayes' Rule.md",
+    "Images/Skewness.png",
+    "Plan",
+    "Set Theory",
+    "Statistics",
+    "Images/BijectiveFunction.png",
+    "Images/ConditionalProbability.png",
+    "Probability",
+    "Images/DisjointSets.png",
+    "Images/AdditionPrinciple.png",
+    "Images/Inclusion-Exclusion3Sets.png",
+    "Images/MultiplicationPrinciple.png",
+    "Images/TreeDiagram.png",
+    "Images/kPartitions.png",
+    "Images/Inclusion-Exclusion2Sets.png",
+    "Images",
+    "Untitled 1",
+    "Untitled 2.canvas"
+  ]
+}

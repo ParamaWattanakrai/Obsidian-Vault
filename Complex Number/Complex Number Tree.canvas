@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"885942ebca3aa6cd","type":"text","text":"$\\mathbb{C}$ Complex Number","x":-120,"y":-220,"width":240,"height":60},
+		{"id":"754b688c03f99ffc","type":"text","text":"$\\mathbb{R}$ Real Number","x":-356,"y":-56,"width":250,"height":60},
+		{"id":"27c07c925dcc965d","type":"text","text":"Imaginary Numbers","x":91,"y":-54,"width":250,"height":60},
+		{"id":"002e9829d9c4079a","type":"text","text":"$\\mathbb{Q}$ Rational Number","x":-560,"y":100,"width":260,"height":60},
+		{"id":"0b84823c24f72296","type":"text","text":"$\\mathbb{R}-\\mathbb{Q}$ Irrational Number","x":-189,"y":100,"width":280,"height":60},
+		{"id":"5e500492f46b1c09","type":"text","text":"$\\mathbb{Z}$ Integer","x":-723,"y":268,"width":153,"height":60},
+		{"id":"74ee9ee7e0a327c8","type":"text","text":"$\\mathbb{N}$ / $\\mathbb{Z^+}$ Natural Number","x":-430,"y":593,"width":271,"height":60},
+		{"id":"94807233da9362f0","type":"text","text":"0 Zero","x":-731,"y":593,"width":250,"height":60},
+		{"id":"aca03c07c2c21915","type":"text","text":"$\\mathbb{Z^-}$ Negative Number","x":-1040,"y":593,"width":260,"height":60},
+		{"id":"1b277d4d7633edb7","type":"text","text":"Whole Number","x":-570,"y":440,"width":250,"height":60},
+		{"id":"cdc1a0f2a13f3dbb","type":"text","text":"Fraction","x":-332,"y":268,"width":173,"height":60}
+	],
+	"edges":[
+		{"id":"27676941256309c2","fromNode":"885942ebca3aa6cd","fromSide":"bottom","toNode":"27c07c925dcc965d","toSide":"top"},
+		{"id":"f8b595927c564dac","fromNode":"002e9829d9c4079a","fromSide":"bottom","toNode":"5e500492f46b1c09","toSide":"top"},
+		{"id":"e6fccf9ab8a06a9c","fromNode":"002e9829d9c4079a","fromSide":"bottom","toNode":"cdc1a0f2a13f3dbb","toSide":"top"},
+		{"id":"1025401dea48a4fa","fromNode":"5e500492f46b1c09","fromSide":"bottom","toNode":"aca03c07c2c21915","toSide":"top"},
+		{"id":"e3e67b0a934045fc","fromNode":"885942ebca3aa6cd","fromSide":"bottom","toNode":"754b688c03f99ffc","toSide":"top"},
+		{"id":"654c540398a510ce","fromNode":"754b688c03f99ffc","fromSide":"bottom","toNode":"002e9829d9c4079a","toSide":"top"},
+		{"id":"b307ae3a26d73885","fromNode":"754b688c03f99ffc","fromSide":"bottom","toNode":"0b84823c24f72296","toSide":"top"},
+		{"id":"109a566a96175287","fromNode":"5e500492f46b1c09","fromSide":"bottom","toNode":"1b277d4d7633edb7","toSide":"top"},
+		{"id":"0fa26293840f2ca7","fromNode":"1b277d4d7633edb7","fromSide":"bottom","toNode":"94807233da9362f0","toSide":"top"},
+		{"id":"89b587a25832b79f","fromNode":"1b277d4d7633edb7","fromSide":"bottom","toNode":"74ee9ee7e0a327c8","toSide":"top"}
+	]
+}
