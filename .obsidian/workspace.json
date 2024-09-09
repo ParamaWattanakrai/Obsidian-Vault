@@ -8,46 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ccedf61f20e54cad",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Data Types.canvas",
-                "viewState": {
-                  "x": 635.1824601052206,
-                  "y": 879.3001160100378,
-                  "zoom": -1.006668692827295
-                }
-              }
-            }
-          },
-          {
-            "id": "9770d9c8fbf4b80c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plan/Quick Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "80cde44e21d60569",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Complex Number/Real Number/Real Number.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41a49c0e655c926b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,31 +20,21 @@
             }
           },
           {
-            "id": "0b88d91e2f869af4",
+            "id": "41a49c0e655c926b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Computer Number System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b6018cadda5378e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability/Law of Total Probability.md",
-                "mode": "source",
-                "source": false
+                "file": "Complex Number/Complex Number Tree.canvas",
+                "viewState": {
+                  "x": -349.5,
+                  "y": 216.5,
+                  "zoom": -0.5107365861975165
+                }
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,12 +161,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41a49c0e655c926b",
+  "active": "80cde44e21d60569",
   "lastOpenFiles": [
     "Complex Number/Real Number/Real Number.md",
-    "Complex Number/Real Number/Rational Number.md",
-    "Complex Number/Real Number/Real Number 1.md",
     "Complex Number/Complex Number Tree.canvas",
+    "Probability/Law of Total Probability.md",
+    "Computer Number System.md",
+    "Plan/Quick Note.md",
+    "Data Types.canvas",
+    "Complex Number/Real Number/Rational Number.md",
+    "Statistics/Bessel's Correction.md",
+    "Statistics/Polynomial Regression.md",
+    "Statistics/Null & Alternative Hypotheses.md",
+    "Complex Number/Real Number/Real Number 1.md",
     "Branches of Mathematics.canvas",
     "Complex Number",
     "Set Theory/Universal Set.md",
@@ -225,7 +183,6 @@
     "Set Theory/Set Theory.md",
     "Set Theory/Set.md",
     "Plan/To Learn.md",
-    "Plan/Quick Note.md",
     "BijectiveFunction.md",
     "Assembler vs Compiler vs Interpreter.md",
     "Set Theory/Subset.md",
@@ -237,14 +194,7 @@
     "Set Theory/Power Set.md",
     "Set Theory/Algebra of Sets.md",
     "Signed Number Representations.md",
-    "Computer Number System.md",
     "Regression Model Formulas.md",
-    "Data Types.canvas",
-    "Probability/Tree Diagram.md",
-    "Probability/Bayes' Theorem.md",
-    "Probability/Conditional Probability.md",
-    "Probability/Simple Bayesian Learning.md",
-    "Probability/Bayes' Rule.md",
     "Images/Skewness.png",
     "Plan",
     "Set Theory",
