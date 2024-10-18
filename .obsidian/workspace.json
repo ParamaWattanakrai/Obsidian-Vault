@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Complex Number/Real Number/Rational Number.md",
+                "file": "Representation/Signed Integers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30dea3de3c23dd73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Representation/Floating Point.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Complex Number/Real Number/Rational Number.md",
+                "file": "Representation/Floating Point.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Complex Number/Real Number/Rational Number.md",
+                "file": "Representation/Floating Point.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Complex Number/Real Number/Rational Number.md"
+                "file": "Representation/Floating Point.md"
               }
             }
           }
@@ -161,41 +174,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80cde44e21d60569",
+  "active": "e6c31d6dce458c84",
   "lastOpenFiles": [
-    "Complex Number/Real Number/Polynomial.md",
+    "Representation/Signed Integers.md",
+    "Representation/Floating Point.md",
+    "Representation/Computer Number System.md",
+    "Representation/Data Types.canvas",
+    "Mathematics.md",
+    "GCD(HCF) & LCM.md",
+    "Statistics/Hypothesis Testing Formulas.md",
+    "Statistics/Multiple Linear Regression.md",
+    "Statistics/Random Variable.md",
+    "Statistics/Probability Distribution.md",
+    "Statistics/Random Variables and Distributions.md",
+    "Statistics/Regression Model.md",
+    "Statistics/Sampling.md",
+    "Statistics/Simple Linear Regression.md",
+    "Statistics/Statistics CS30KMITL.md",
+    "Statistics/Type I & Type II Errors.md",
+    "Statistics/Z-test.md",
+    "Statistics/Regression Model Formulas.md",
+    "Representation",
+    "Branches of Mathematics.canvas",
+    "Set Theory/BijectiveFunction.md",
+    "Assembler vs Compiler vs Interpreter.md",
     "Complex Number/Real Number/Real Number.md",
     "Complex Number/Real Number/Rational Number.md",
+    "Complex Number/Real Number/Polynomial.md",
     "Complex Number/Complex Number Tree.canvas",
     "Probability/Law of Total Probability.md",
-    "Computer Number System.md",
     "Plan/Quick Note.md",
-    "Data Types.canvas",
     "Statistics/Bessel's Correction.md",
     "Statistics/Polynomial Regression.md",
-    "Statistics/Null & Alternative Hypotheses.md",
-    "Complex Number/Real Number/Real Number 1.md",
-    "Branches of Mathematics.canvas",
     "Complex Number",
-    "Set Theory/Universal Set.md",
     "Complex Number/Real Number",
     "Complex Number/Real Number",
     "Complex Number",
-    "Set Theory/Set Theory.md",
-    "Set Theory/Set.md",
-    "Plan/To Learn.md",
-    "BijectiveFunction.md",
-    "Assembler vs Compiler vs Interpreter.md",
-    "Set Theory/Subset.md",
-    "Set Theory/Set-Builder Notation.md",
-    "Set Theory/Roster Notation.md",
-    "Set Theory/Cardinal Number.md",
-    "Set Theory/Disjoint Sets.md",
-    "Set Theory/Empty Set.md",
-    "Set Theory/Power Set.md",
-    "Set Theory/Algebra of Sets.md",
-    "Signed Number Representations.md",
-    "Regression Model Formulas.md",
     "Images/Skewness.png",
     "Plan",
     "Set Theory",
@@ -211,7 +225,6 @@
     "Images/kPartitions.png",
     "Images/Inclusion-Exclusion2Sets.png",
     "Images",
-    "Untitled 1",
     "Untitled 2.canvas"
   ]
 }
