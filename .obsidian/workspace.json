@@ -8,49 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80cde44e21d60569",
+            "id": "ddc69bd374d79892",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Representation/Signed Integers.md",
+                "file": "Python Libraries/Python Libraries for Data Science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Signed Integers"
+              "title": "Python Libraries for Data Science"
             }
           },
           {
-            "id": "30dea3de3c23dd73",
+            "id": "f76b5cd5787064fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Representation/Floating Point.md",
+                "file": "Python Libraries/pandas Matplotlib seaborn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Floating Point"
-            }
-          },
-          {
-            "id": "41a49c0e655c926b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/Precedence of Operation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Precedence of Operation"
+              "title": "pandas Matplotlib seaborn"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,9 +177,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6c31d6dce458c84",
+  "active": "f76b5cd5787064fe",
   "lastOpenFiles": [
+    "Python Libraries/matplotlib.md",
+    "Python Libraries/pandas Matplotlib seaborn.md",
+    "Python Libraries/Python Libraries for Data Science.md",
+    "Python Libraries/google.colab.md",
+    "Python Libraries/Untitled",
     "Probability/Bayes' Rule.md",
+    "Python Libraries",
     "Programming Languages/Precedence of Operation.md",
     "Programming Languages/Java",
     "Complex Number/Complex Number Tree.canvas",
@@ -221,18 +213,12 @@
     "Set Theory/BijectiveFunction.md",
     "Assembler vs Compiler vs Interpreter.md",
     "Complex Number/Real Number/Real Number.md",
-    "Complex Number/Real Number/Rational Number.md",
-    "Complex Number/Real Number/Polynomial.md",
-    "Probability/Law of Total Probability.md",
-    "Plan/Quick Note.md",
     "Complex Number",
     "Complex Number/Real Number",
     "Complex Number/Real Number",
     "Complex Number",
     "Images/Skewness.png",
     "Plan",
-    "Set Theory",
-    "Statistics",
     "Images/BijectiveFunction.png",
     "Images/ConditionalProbability.png",
     "Images/DisjointSets.png",
