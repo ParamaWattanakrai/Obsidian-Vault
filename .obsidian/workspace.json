@@ -16,7 +16,9 @@
                 "file": "Representation/Signed Integers.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Signed Integers"
             }
           },
           {
@@ -28,26 +30,27 @@
                 "file": "Representation/Floating Point.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Floating Point"
             }
           },
           {
             "id": "41a49c0e655c926b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Complex Number/Complex Number Tree.canvas",
-                "viewState": {
-                  "x": -349.5,
-                  "y": 216.5,
-                  "zoom": -0.5107365861975165
-                }
-              }
+                "file": "Programming Languages/Precedence of Operation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Precedence of Operation"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -67,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -82,7 +87,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -90,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -113,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Representation/Floating Point.md",
+                "file": "Representation/Signed Integers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +130,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Signed Integers"
             }
           },
           {
@@ -130,10 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Representation/Floating Point.md",
+                "file": "Representation/Signed Integers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Signed Integers"
             }
           },
           {
@@ -144,7 +157,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -153,8 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Representation/Floating Point.md"
-              }
+                "file": "Representation/Signed Integers.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Signed Integers"
             }
           }
         ]
@@ -176,6 +193,11 @@
   },
   "active": "e6c31d6dce458c84",
   "lastOpenFiles": [
+    "Probability/Bayes' Rule.md",
+    "Programming Languages/Precedence of Operation.md",
+    "Programming Languages/Java",
+    "Complex Number/Complex Number Tree.canvas",
+    "Programming Languages",
     "Representation/Signed Integers.md",
     "Representation/Floating Point.md",
     "Representation/Computer Number System.md",
@@ -201,11 +223,8 @@
     "Complex Number/Real Number/Real Number.md",
     "Complex Number/Real Number/Rational Number.md",
     "Complex Number/Real Number/Polynomial.md",
-    "Complex Number/Complex Number Tree.canvas",
     "Probability/Law of Total Probability.md",
     "Plan/Quick Note.md",
-    "Statistics/Bessel's Correction.md",
-    "Statistics/Polynomial Regression.md",
     "Complex Number",
     "Complex Number/Real Number",
     "Complex Number/Real Number",
@@ -216,7 +235,6 @@
     "Statistics",
     "Images/BijectiveFunction.png",
     "Images/ConditionalProbability.png",
-    "Probability",
     "Images/DisjointSets.png",
     "Images/AdditionPrinciple.png",
     "Images/Inclusion-Exclusion3Sets.png",
@@ -224,7 +242,6 @@
     "Images/TreeDiagram.png",
     "Images/kPartitions.png",
     "Images/Inclusion-Exclusion2Sets.png",
-    "Images",
     "Untitled 2.canvas"
   ]
 }
