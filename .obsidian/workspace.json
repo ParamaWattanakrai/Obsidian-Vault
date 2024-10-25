@@ -179,6 +179,7 @@
   },
   "active": "baf31a45ac924f06",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Python Libraries/Python Libraries for Data Science.md",
     "Python Libraries/pandas Matplotlib seaborn.md",
     "Statistics/Regression Model Formulas.md",
@@ -191,6 +192,11 @@
     "Statistics/Type I & Type II Errors.md",
     "Statistics/Simple Linear Regression.md",
     "Python Libraries/google.colab.md",
+=======
+    "Python Libraries/google.colab.md",
+    "Python Libraries/pandas Matplotlib seaborn.md",
+    "Python Libraries/Python Libraries for Data Science.md",
+>>>>>>> cff4675a12143fe487e0c6d2ec9b26b18a82468c
     "Python Libraries",
     "Python Libraries/matplotlib.md",
     "Python Libraries/Untitled",

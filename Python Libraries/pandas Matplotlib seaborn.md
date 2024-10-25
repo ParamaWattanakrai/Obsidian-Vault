@@ -22,6 +22,7 @@ df.label = df.label.astype('dtype') #'category'
 df.label.value_counts()
 df.Geography.value_counts().plot.bar(grid=True)
 df['label']
+df['label'].shape[index]
 ```
 
 Importing Matplotlib
