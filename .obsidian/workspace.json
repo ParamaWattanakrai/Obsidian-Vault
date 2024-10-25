@@ -22,13 +22,17 @@
             }
           },
           {
-            "id": "f76b5cd5787064fe",
+            "id": "baf31a45ac924f06",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Python Libraries/pandas Matplotlib seaborn.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "pandas Matplotlib seaborn"
             }
           }
         ],
@@ -173,10 +177,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f76b5cd5787064fe",
+  "active": "baf31a45ac924f06",
   "lastOpenFiles": [
-    "Python Libraries/pandas Matplotlib seaborn.md",
     "Python Libraries/Python Libraries for Data Science.md",
+    "Python Libraries/pandas Matplotlib seaborn.md",
+    "Statistics/Regression Model Formulas.md",
+    "Statistics/Random Variables and Distributions.md",
+    "Statistics/Probability with Permutation & Combination.md",
+    "Statistics/Null & Alternative Hypotheses.md",
+    "Statistics/Hypothesis Testing.md",
+    "Statistics/Hypothesis Testing Formulas.md",
+    "Statistics/Bessel's Correction.md",
+    "Statistics/Type I & Type II Errors.md",
+    "Statistics/Simple Linear Regression.md",
     "Python Libraries/google.colab.md",
     "Python Libraries",
     "Python Libraries/matplotlib.md",
@@ -192,22 +205,14 @@
     "Representation/Data Types.canvas",
     "Mathematics.md",
     "GCD(HCF) & LCM.md",
-    "Statistics/Hypothesis Testing Formulas.md",
     "Statistics/Multiple Linear Regression.md",
     "Statistics/Random Variable.md",
     "Statistics/Probability Distribution.md",
-    "Statistics/Random Variables and Distributions.md",
     "Statistics/Regression Model.md",
     "Statistics/Sampling.md",
-    "Statistics/Simple Linear Regression.md",
     "Statistics/Statistics CS30KMITL.md",
-    "Statistics/Type I & Type II Errors.md",
-    "Statistics/Z-test.md",
-    "Statistics/Regression Model Formulas.md",
     "Representation",
     "Branches of Mathematics.canvas",
-    "Set Theory/BijectiveFunction.md",
-    "Assembler vs Compiler vs Interpreter.md",
     "Complex Number",
     "Complex Number/Real Number",
     "Complex Number/Real Number",

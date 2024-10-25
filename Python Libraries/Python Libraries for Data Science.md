@@ -5,10 +5,10 @@ from google.colab import files
 
 pandas
 matplotlib
-seaborn
+- seaborn
 
 numpy
-scipy
+- scipy
 statsmodels
 sklearn
 

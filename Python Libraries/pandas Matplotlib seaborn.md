@@ -43,15 +43,18 @@ import matplotlib.style as mstyle             # Style management
 Dump Matplotlib
 ```python
 plt.show() #not taught
-fig = plt.figure(figsize=(5, 5))
+fig = plt.figure(figsize=(w, h))
 plt.annotate(label, xy=(x, y), color='color', fontweight='weight', size=17
 plt.title('title')
 plt.xticks([indexes], ['labels'])
 plt.xlabel('xlabel')
 plt.ylabel('ylabel')
+fig, axarr = plt.subplots(nrows, ncols, figsize=(w, h))
 ```
 Dump seaborn
 ```python
 sns.setstyle('darkgrid')
-sns.countplot(x='label', data=df, palette=['colors'])
+sns.countplot(x='label', hue='label', data=df, palette=['colors'], ax=axarr[row][col])
+sns.boxplot(y='label', x='label', hue='label', data=df)
+sns.histplot(df, x="Age")
 ```
