@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "baf31a45ac924f06",
+            "id": "45af4dc9df2b48cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +33,34 @@
               },
               "icon": "lucide-file",
               "title": "pandas Matplotlib seaborn"
+            }
+          },
+          {
+            "id": "baf31a45ac924f06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python Libraries/NumPy SciPy statsmodels.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NumPy SciPy statsmodels"
+            }
+          },
+          {
+            "id": "6b937375427dfd05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/Hypothesis Testing Formulas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hypothesis Testing Formulas"
             }
           }
         ],
@@ -177,26 +205,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "baf31a45ac924f06",
+  "active": "45af4dc9df2b48cc",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Python Libraries/Python Libraries for Data Science.md",
+    "Python Libraries/NumPy SciPy statsmodels.md",
     "Python Libraries/pandas Matplotlib seaborn.md",
+    "Python Libraries/Python Libraries for Data Science.md",
+    "Statistics/Hypothesis Testing Formulas.md",
     "Statistics/Regression Model Formulas.md",
     "Statistics/Random Variables and Distributions.md",
     "Statistics/Probability with Permutation & Combination.md",
     "Statistics/Null & Alternative Hypotheses.md",
     "Statistics/Hypothesis Testing.md",
-    "Statistics/Hypothesis Testing Formulas.md",
     "Statistics/Bessel's Correction.md",
     "Statistics/Type I & Type II Errors.md",
     "Statistics/Simple Linear Regression.md",
     "Python Libraries/google.colab.md",
-=======
-    "Python Libraries/google.colab.md",
-    "Python Libraries/pandas Matplotlib seaborn.md",
-    "Python Libraries/Python Libraries for Data Science.md",
->>>>>>> cff4675a12143fe487e0c6d2ec9b26b18a82468c
     "Python Libraries",
     "Python Libraries/matplotlib.md",
     "Python Libraries/Untitled",
@@ -216,7 +239,6 @@
     "Statistics/Probability Distribution.md",
     "Statistics/Regression Model.md",
     "Statistics/Sampling.md",
-    "Statistics/Statistics CS30KMITL.md",
     "Representation",
     "Branches of Mathematics.canvas",
     "Complex Number",
