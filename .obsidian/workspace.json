@@ -25,10 +25,14 @@
             "id": "f76b5cd5787064fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Python Libraries/pandas Matplotlib seaborn.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "pandas Matplotlib seaborn"
             }
           }
         ],
@@ -175,9 +179,9 @@
   },
   "active": "f76b5cd5787064fe",
   "lastOpenFiles": [
+    "Python Libraries/google.colab.md",
     "Python Libraries/pandas Matplotlib seaborn.md",
     "Python Libraries/Python Libraries for Data Science.md",
-    "Python Libraries/google.colab.md",
     "Python Libraries",
     "Python Libraries/matplotlib.md",
     "Python Libraries/Untitled",

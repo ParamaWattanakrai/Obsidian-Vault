@@ -22,6 +22,7 @@ df.label = df.label.astype('dtype') #'category'
 df.label.value_counts()
 df.Geography.value_counts().plot.bar(grid=True)
 df['label']
+df['label'].shape[index]
 ```
 
 Importing Matplotlib
@@ -49,6 +50,7 @@ plt.title('title')
 plt.xticks([indexes], ['labels'])
 plt.xlabel('xlabel')
 plt.ylabel('ylabel')
+fig, axarr = plt.subplots(2, 2, figsize=(20, 12))
 ```
 Dump seaborn
 ```python
