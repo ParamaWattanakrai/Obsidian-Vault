@@ -24,7 +24,7 @@ import scipy.stats as stats
 Dump SciPy
 ```python
 stat, p_value = stats.ttest_ind(a=A, b=B, equal_var=boolean)
-stat, p_value = stats.ttest_rel(group1, group2)
+stat, p_value = stats.ttest_rel(a=A, b=B) #Positionally ordered
 chi2, p, dof, expected = stats.chi2_contingency(df, correction=False) #correction for 2x2
 ```
 
@@ -69,10 +69,10 @@ model.fit(x_poly, y)
 #NaiveBayes
 df['label_'] = LabelEncoder().fit_transform(data[i])
 model = CategoricalNB()
-model.fit(X1, y1)
+model.fit(X1, y1) #Encode first
 model.category_count_
 model.feature_log_prob_
 model.predict_proba(new_input)
 y_le = LabelEncoder() #creates an instance of encoder
-y_le.classes_[i] #decode from an instance of encoder
+y_le.classes_[model.predict()[i]] #decode from an instance of encoder
 ```
