@@ -27,12 +27,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Libraries/pandas Matplotlib seaborn.md",
+                "file": "Neuroscience/Electroencephalography (EEG).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pandas Matplotlib seaborn"
+              "title": "Electroencephalography (EEG)"
+            }
+          },
+          {
+            "id": "6c3bcd2d6e9974cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sources"
+            }
+          },
+          {
+            "id": "13051320d7a1ca2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataset.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dataset"
+            }
+          },
+          {
+            "id": "32b7de2d14807188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sources"
             }
           },
           {
@@ -78,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -219,11 +261,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45af4dc9df2b48cc",
+  "active": "32b7de2d14807188",
   "lastOpenFiles": [
-    "Python Libraries/NumPy SciPy statsmodels scikit-learn.md",
-    "Python Libraries/pandas Matplotlib seaborn.md",
+    "Sources.md",
+    "Dataset.md",
+    "Untitled",
+    "Neuroscience/Electroencephalography (EEG).md",
+    "Neuroscience/Untitled.md",
     "Python Libraries/Python Libraries for Data Science.md",
+    "Neuroscience",
+    "Python Libraries/pandas Matplotlib seaborn.md",
+    "Python Libraries/NumPy SciPy statsmodels scikit-learn.md",
     "Statistics/Hypothesis Testing Formulas.md",
     "Statistics/Regression Model Formulas.md",
     "Statistics/Random Variables and Distributions.md",
@@ -249,18 +297,12 @@
     "Mathematics.md",
     "GCD(HCF) & LCM.md",
     "Statistics/Multiple Linear Regression.md",
-    "Statistics/Random Variable.md",
-    "Statistics/Probability Distribution.md",
-    "Statistics/Regression Model.md",
-    "Statistics/Sampling.md",
     "Representation",
     "Branches of Mathematics.canvas",
     "Complex Number",
     "Complex Number/Real Number",
     "Complex Number/Real Number",
-    "Complex Number",
     "Images/Skewness.png",
-    "Plan",
     "Images/BijectiveFunction.png",
     "Images/ConditionalProbability.png",
     "Images/DisjointSets.png",
