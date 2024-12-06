@@ -1,140 +1,55 @@
 {
   "main": {
-    "id": "4afbdddcccda1370",
+    "id": "b38b2277f08eb1a2",
     "type": "split",
     "children": [
       {
-        "id": "1f2c5e7287e154bf",
+        "id": "d2c5c0923adaa3b4",
         "type": "tabs",
         "children": [
           {
-            "id": "ddc69bd374d79892",
+            "id": "11e5cdf200fe5d4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Libraries/Python Libraries for Data Science.md",
+                "file": "Python Libraries/Pandas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Libraries for Data Science"
+              "title": "Pandas"
             }
           },
           {
-            "id": "45af4dc9df2b48cc",
+            "id": "6d253dbfcc693b2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neuroscience/Electroencephalography (EEG).md",
+                "file": "Statistics/CS30Stats/pandas Matplotlib seaborn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Electroencephalography (EEG)"
-            }
-          },
-          {
-            "id": "6c3bcd2d6e9974cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sources"
-            }
-          },
-          {
-            "id": "13051320d7a1ca2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dataset.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dataset"
-            }
-          },
-          {
-            "id": "32b7de2d14807188",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sources"
-            }
-          },
-          {
-            "id": "baf31a45ac924f06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python Libraries/NumPy SciPy statsmodels scikit-learn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NumPy SciPy statsmodels scikit-learn"
-            }
-          },
-          {
-            "id": "df8f3b67f1520b4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Hypothesis Testing Formulas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hypothesis Testing Formulas"
-            }
-          },
-          {
-            "id": "6b937375427dfd05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Hypothesis Testing Formulas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hypothesis Testing Formulas"
+              "title": "pandas Matplotlib seaborn"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "960f112242b55acb",
+    "id": "c906495b4f3aaa45",
     "type": "split",
     "children": [
       {
-        "id": "8a80c240fea670dd",
+        "id": "4ed35d1107091434",
         "type": "tabs",
         "children": [
           {
-            "id": "e6c31d6dce458c84",
+            "id": "41f314df0a21a4fa",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -146,7 +61,7 @@
             }
           },
           {
-            "id": "244e06b2d634dce7",
+            "id": "67021e775899eaf0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -163,7 +78,7 @@
             }
           },
           {
-            "id": "70a2f40139756bdf",
+            "id": "5632e60eab40a68b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -176,23 +91,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325
+    "width": 300
   },
   "right": {
-    "id": "65453208df858274",
+    "id": "08571802103056ad",
     "type": "split",
     "children": [
       {
-        "id": "2dbf93764d958095",
+        "id": "c74d16f1feb0b96e",
         "type": "tabs",
         "children": [
           {
-            "id": "4fb4dfbbadcf4a1f",
+            "id": "3074f4b0128ab533",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Representation/Signed Integers.md",
+                "file": "Python Libraries/Pandas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,25 +117,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Signed Integers"
+              "title": "Backlinks for Pandas"
             }
           },
           {
-            "id": "417de0e1be9e0a63",
+            "id": "06ff86f28b315377",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Representation/Signed Integers.md",
+                "file": "Python Libraries/Pandas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Signed Integers"
+              "title": "Outgoing links from Pandas"
             }
           },
           {
-            "id": "fd1f10f2a9535fb8",
+            "id": "3c0d67481f74d140",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -233,22 +148,22 @@
             }
           },
           {
-            "id": "b4a1c6913e9b113a",
+            "id": "02d8abeba689e927",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Representation/Signed Integers.md"
+                "file": "Python Libraries/Pandas.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Signed Integers"
+              "title": "Outline of Pandas"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -261,57 +176,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32b7de2d14807188",
+  "active": "11e5cdf200fe5d4c",
   "lastOpenFiles": [
-    "Sources.md",
-    "Dataset.md",
-    "Untitled",
+    "Statistics/CS30Stats/pandas Matplotlib seaborn.md",
+    "Python Libraries/Pandas.md",
+    "Data Science/Vocabularies in Data Science.md",
     "Neuroscience/Electroencephalography (EEG).md",
-    "Neuroscience/Untitled.md",
-    "Python Libraries/Python Libraries for Data Science.md",
-    "Neuroscience",
-    "Python Libraries/pandas Matplotlib seaborn.md",
-    "Python Libraries/NumPy SciPy statsmodels scikit-learn.md",
-    "Statistics/Hypothesis Testing Formulas.md",
-    "Statistics/Regression Model Formulas.md",
-    "Statistics/Random Variables and Distributions.md",
-    "Statistics/Probability with Permutation & Combination.md",
-    "Statistics/Null & Alternative Hypotheses.md",
-    "Statistics/Hypothesis Testing.md",
-    "Statistics/Bessel's Correction.md",
-    "Statistics/Type I & Type II Errors.md",
-    "Statistics/Simple Linear Regression.md",
-    "Python Libraries/google.colab.md",
-    "Python Libraries",
-    "Python Libraries/matplotlib.md",
-    "Python Libraries/Untitled",
-    "Probability/Bayes' Rule.md",
     "Programming Languages/Precedence of Operation.md",
-    "Programming Languages/Java",
-    "Complex Number/Complex Number Tree.canvas",
-    "Programming Languages",
-    "Representation/Signed Integers.md",
-    "Representation/Floating Point.md",
-    "Representation/Computer Number System.md",
-    "Representation/Data Types.canvas",
-    "Mathematics.md",
-    "GCD(HCF) & LCM.md",
-    "Statistics/Multiple Linear Regression.md",
-    "Representation",
-    "Branches of Mathematics.canvas",
-    "Complex Number",
-    "Complex Number/Real Number",
-    "Complex Number/Real Number",
-    "Images/Skewness.png",
-    "Images/BijectiveFunction.png",
-    "Images/ConditionalProbability.png",
-    "Images/DisjointSets.png",
-    "Images/AdditionPrinciple.png",
-    "Images/Inclusion-Exclusion3Sets.png",
-    "Images/MultiplicationPrinciple.png",
-    "Images/TreeDiagram.png",
-    "Images/kPartitions.png",
-    "Images/Inclusion-Exclusion2Sets.png",
-    "Untitled 2.canvas"
+    "Data Science/Untitled",
+    "Data Science/Vocabulary in Data Science",
+    "Data Science",
+    "Statistics/CS30Stats/google.colab.md",
+    "Statistics/CS30Stats/Python Libraries for Data Science.md",
+    "Statistics/CS30Stats/NumPy SciPy statsmodels scikit-learn.md",
+    "Statistics/CS30Stats",
+    "Statistics/Random Variables and Distributions.md",
+    "Statistics/Polynomial Regression.md",
+    "Statistics/Bessel's Correction.md"
   ]
 }
