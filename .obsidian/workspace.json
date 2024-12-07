@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11e5cdf200fe5d4c",
+            "id": "6ca3619c9e35798f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,13 +176,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11e5cdf200fe5d4c",
+  "active": "6ca3619c9e35798f",
   "lastOpenFiles": [
     "Statistics/CS30Stats/pandas Matplotlib seaborn.md",
+    "Programming Languages/Anonymous Function.md",
+    "Plan/To Learn.md",
     "Python Libraries/Pandas.md",
+    "Programming Languages/Precedence of Operation.md",
+    "Plan/Quick Note.md",
+    "Probability/Law of Total Probability.md",
+    "Probability/Permutations & Combinations.md",
+    "Probability/Principle of Counting.md",
+    "Probability/Probability Theory.md",
+    "Probability/Simple Bayesian Learning.md",
+    "Probability/Probability.md",
+    "Probability/Tree Diagram.md",
+    "Probability/Probability CS30KMITL.md",
+    "Probability/Conditional Probability.md",
+    "Probability/Bayes' Rule.md",
+    "Probability/Bayes' Theorem.md",
+    "Programming Languages/Untitled",
     "Data Science/Vocabularies in Data Science.md",
     "Neuroscience/Electroencephalography (EEG).md",
-    "Programming Languages/Precedence of Operation.md",
     "Data Science/Untitled",
     "Data Science/Vocabulary in Data Science",
     "Data Science",

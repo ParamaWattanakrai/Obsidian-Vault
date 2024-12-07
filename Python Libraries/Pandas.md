@@ -71,10 +71,41 @@ df.loc[df['attribute'].notnull()]
 ```python
 df.describe(include=['dtypes'], exclude=['dtypes'])
 df['attribute'].mean()
+df['attribute'].median()
 df['attribute'].unique()
 df['attribute'].value_counts()
+df['attribute'].idxmax()
+
+#Example
+bargain_wine = reviews['title'][(reviews['points'] / reviews['price']).idxmax()]
 ```
 
+## Mapping
+
+Using `map` and `apply`
+```python
+df['attribute'].map(lambda value: expression) #expression, usually operations on the value
+DataFrame.apply(func, axis=axis) #0(default) or ‘index’, 1 or ‘columns’
+
+#Example
+def remean_points(row):
+    row.points = row.points - review_points_mean
+    return row
+
+reviews.apply(remean_points, axis='columns')
+```
+>`axis=0` (rows): Operate **down** each column.
+>`axis=1` (columns): Operate **across** each row.
+
+Using built in operations (faster)
+```python
+#Example 1, arithmetical operations
+mean = df.mean()
+df['attribute'] - mean
+
+#Example 2, string operation
+df['attribute'] + ' - ' + df['attribute']
+```
 ## Assigning
 ```python
 df['attribute'] = value #Will assign all, can also use iterable values
