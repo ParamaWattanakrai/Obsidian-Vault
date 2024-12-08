@@ -85,7 +85,7 @@ bargain_wine = reviews['title'][(reviews['points'] / reviews['price']).idxmax()]
 Using `map` and `apply`
 ```python
 df['attribute'].map(lambda value: expression) #expression, usually operations on the value
-DataFrame.apply(func, axis=axis) #0(default) or ‘index’, 1 or ‘columns’
+df.apply(func, axis=axis) #0(default) or ‘index’, 1 or ‘columns’
 
 #Example
 def remean_points(row):
@@ -96,6 +96,11 @@ reviews.apply(remean_points, axis='columns')
 ```
 >`axis=0` (rows): Operate **down** each column.
 >`axis=1` (columns): Operate **across** each row.
+
+## Grouping
+```python
+df.groupby('attribute')
+```
 
 Using built in operations (faster)
 ```python
