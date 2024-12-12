@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Libraries/Pandas.md",
+                "file": "Linguistics/Thai Poetry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pandas"
+              "title": "Thai Poetry"
             }
           },
           {
@@ -178,10 +178,10 @@
   },
   "active": "6ca3619c9e35798f",
   "lastOpenFiles": [
+    "Python Libraries/Pandas.md",
     "Statistics/CS30Stats/pandas Matplotlib seaborn.md",
     "Programming Languages/Anonymous Function.md",
     "Plan/To Learn.md",
-    "Python Libraries/Pandas.md",
     "Programming Languages/Precedence of Operation.md",
     "Plan/Quick Note.md",
     "Probability/Law of Total Probability.md",
