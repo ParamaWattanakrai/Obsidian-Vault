@@ -12,29 +12,29 @@
 | Euler's Number | $\begin{flalign}\frac{d}{dx}e^x=e^x\end{flalign}$                  | $\begin{flalign}\int e^x\,dx=e^x+C\end{flalign}$                          |
 # Trigonometric Functions
 
-|                                                          |                                                         |
-| -------------------------------------------------------- | ------------------------------------------------------- |
-| $\begin{flalign}\frac{d}{dx}sinx=cosx\end{flalign}$      | $\begin{flalign}\frac{d}{dx}cosx=-sinx\end{flalign}$    |
-| $\begin{flalign}\frac{d}{dx}tanx=sec^2x\end{flalign}$    | $\begin{flalign}\frac{d}{dx}cotx=-csc^2x\end{flalign}$  |
-| $\begin{flalign}\frac{d}{dx}cscx=-cscxcotx\end{flalign}$ | $\begin{flalign}\frac{d}{dx}secx=secxtanx\end{flalign}$ |
+|                                                         |                                                          |
+| ------------------------------------------------------- | -------------------------------------------------------- |
+| $\begin{flalign}\frac{d}{dx}sinx=cosx\end{flalign}$     | $\begin{flalign}\frac{d}{dx}cosx=-sinx\end{flalign}$     |
+| $\begin{flalign}\frac{d}{dx}tanx=sec^2x\end{flalign}$   | $\begin{flalign}\frac{d}{dx}cotx=-csc^2x\end{flalign}$   |
+| $\begin{flalign}\frac{d}{dx}secx=secxtanx\end{flalign}$ | $\begin{flalign}\frac{d}{dx}cscx=-cscxcotx\end{flalign}$ |
 
-|                                                              |                                                             |
-| ------------------------------------------------------------ | ----------------------------------------------------------- |
-| $\begin{flalign}\int sinx\,dx=-cosx+C\end{flalign}$          | $\begin{flalign}\int cosx\,dx=sinx+C\end{flalign}$          |
-| $\begin{flalign}\int tanx\,dx=-ln(cosx)+C\end{flalign}$      | $\begin{flalign}\int cotx\,dx=ln(sinx)+C\end{flalign}$      |
-| $\begin{flalign}\int cscx\,dx=-ln(cosx+cotx)+C\end{flalign}$ | $\begin{flalign}\int secx\,dx=ln(secx+tanx)+C\end{flalign}$ |
+|                                                               |                                                                |
+| ------------------------------------------------------------- | -------------------------------------------------------------- |
+| $\begin{flalign}\int sinx\,dx=-cosx+C\end{flalign}$           | $\begin{flalign}\int cosx\,dx=sinx+C\end{flalign}$             |
+| $\begin{flalign}\int tanx\,dx=-ln\|cosx\|+C\end{flalign}$     | $\begin{flalign}\int cotx\,dx=ln\|sinx\|+C\end{flalign}$       |
+| $\begin{flalign}\int secx\,dx=ln\|secx+tanx\|+C\end{flalign}$ | $\begin{flalign}\int cscx\,dx=-ln\|cscx+cotx\|+C\end{flalign}$ |
 
-| Direct                                                                          | Inverse                                                                          |
+|                                                                                 |                                                                                  |
 | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| $\begin{flalign}\frac{d}{dx}sin^{-1}x=\frac{1}{\sqrt{1-x^2}}\end{flalign}$      | $\begin{flalign}\frac{d}{dx}sin^{-1}x=-\frac{1}{\sqrt{1-x^2}}\end{flalign}$      |
-| $\begin{flalign}\frac{d}{dx}tan^{-1}x=\frac{1}{1+x^2}\end{flalign}$             | $\begin{flalign}\frac{d}{dx}tan^{-1}x=-\frac{1}{1+x^2}\end{flalign}$             |
-| $\begin{flalign}\frac{d}{dx}sec^{-1}x=\frac{1}{\|x\|\sqrt{x^2-1}}\end{flalign}$ | $\begin{flalign}\frac{d}{dx}sec^{-1}x=-\frac{1}{\|x\|\sqrt{x^2-1}}\end{flalign}$ |
+| $\begin{flalign}\frac{d}{dx}sin^{-1}x=\frac{1}{\sqrt{1-x^2}}\end{flalign}$      | $\begin{flalign}\frac{d}{dx}cos^{-1}x=-\frac{1}{\sqrt{1-x^2}}\end{flalign}$      |
+| $\begin{flalign}\frac{d}{dx}tan^{-1}x=\frac{1}{1+x^2}\end{flalign}$             | $\begin{flalign}\frac{d}{dx}cot^{-1}x=-\frac{1}{1+x^2}\end{flalign}$             |
+| $\begin{flalign}\frac{d}{dx}sec^{-1}x=\frac{1}{\|x\|\sqrt{x^2-1}}\end{flalign}$ | $\begin{flalign}\frac{d}{dx}csc^{-1}x=-\frac{1}{\|x\|\sqrt{x^2-1}}\end{flalign}$ |
 
 |                                                                                       |                                                                                       |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | $\begin{flalign}\int sin^{-1}x\,dx=xsin^{-1}x+\sqrt{1-x^2}+C\end{flalign}$            | $\begin{flalign}\int cos^{-1}x\,dx=xcos^{-1}x+\sqrt{1-x^2}+C\end{flalign}$            |
 | $\begin{flalign}\int tan^{-1}x\,dx=xtan^{-1}x-\frac{1}{2}\ln\|1+x^2\|+C\end{flalign}$ | $\begin{flalign}\int cot^{-1}x\,dx=xcot^{-1}x-\frac{1}{2}\ln\|1+x^2\|+C\end{flalign}$ |
-| $\begin{flalign}\int csc^{-1}x\,dx=xcsc^{-1}x+\ln\|x+\sqrt{x^2-1}\|+C\end{flalign}$   | $\begin{flalign}\int sec^{-1}x\,dx=xsec^{-1}x-\ln\|x+\sqrt{x^2-1}\|+C\end{flalign}$   |
+| $\begin{flalign}\int sec^{-1}x\,dx=xsec^{-1}x-\ln\|x+\sqrt{x^2-1}\|+C\end{flalign}$   | $\begin{flalign}\int csc^{-1}x\,dx=xcsc^{-1}x+\ln\|x+\sqrt{x^2-1}\|+C\end{flalign}$   |
 ## Recitation Techniques
 derivative of a trigonometric co-function always is negative
 ### sin and cos
