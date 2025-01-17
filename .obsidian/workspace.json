@@ -22,21 +22,49 @@
             }
           },
           {
+            "id": "a394fd4a28d83795",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Complex Number/Real Number/Polynomial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Polynomial"
+            }
+          },
+          {
             "id": "84b68916fdc203dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/Differentiation Formulas.md",
+                "file": "Calculus/Calculus Formulas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Differentiation Formulas"
+              "title": "Calculus Formulas"
+            }
+          },
+          {
+            "id": "cd178a8393d982f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Probability/Bayes' Rule.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bayes' Rule"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,6 +207,11 @@
   },
   "active": "84b68916fdc203dc",
   "lastOpenFiles": [
+    "Calculus/Integration by Parts.md",
+    "Calculus/Calculus Formulas.md",
+    "Statistics/Bessel's Correction.md",
+    "Probability/Bayes' Rule.md",
+    "Probability/Bayes' Theorem.md",
     "Complex Number/Real Number/Polynomial.md",
     "Statistics/Polynomial Regression.md",
     "Statistics/Random Variables and Distributions.md",
@@ -200,15 +233,10 @@
     "Probability/Conditional Probability.md",
     "Probability/Permutations & Combinations.md",
     "Probability/Inclusion-Exclusion.md",
-    "Probability/Counting Methods.md",
-    "Probability/Bayes' Theorem.md",
-    "Probability/Bayes' Rule.md",
-    "Complex Number/Real Number/Rational Number.md",
     "Images/AdditionPrinciple.png",
     "Images/ConditionalProbability.png",
     "Images/MultiplicationPrinciple.png",
     "Images/Inclusion-Exclusion2Sets.png",
-    "Calculus/Differentiation Formulas.md",
     "Calculus",
     "Programming Languages/Untitled",
     "Data Science/Untitled",
