@@ -8,35 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ca3619c9e35798f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calculus/Differentiation Formulas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Differentiation Formulas"
-            }
-          },
-          {
-            "id": "a394fd4a28d83795",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Complex Number/Real Number/Polynomial.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Polynomial"
-            }
-          },
-          {
             "id": "84b68916fdc203dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethics/Computer Ethics/Computer Criminals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Computer Criminals"
+            }
+          },
+          {
+            "id": "c61434e00514f88d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethics/Computer Ethics/Thailand's Law.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thailand's Law"
+            }
+          },
+          {
+            "id": "f4819fe0cc2ce045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus/Integration by Parts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Integration by Parts"
+            }
+          },
+          {
+            "id": "5e6134f25a4995d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,23 +62,9 @@
               "icon": "lucide-file",
               "title": "Calculus Formulas"
             }
-          },
-          {
-            "id": "cd178a8393d982f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Probability/Bayes' Rule.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bayes' Rule"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,34 +205,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84b68916fdc203dc",
+  "active": "5e6134f25a4995d1",
   "lastOpenFiles": [
+    "Set Theory/Algebra of Sets.md",
+    "Set Theory/Set Theory.md",
+    "Set Theory/Set.md",
+    "Set Theory/Cardinal Number.md",
+    "Set Theory/Set-Builder Notation.md",
     "Calculus/Integration by Parts.md",
-    "Calculus/Calculus Formulas.md",
-    "Statistics/Bessel's Correction.md",
-    "Probability/Bayes' Rule.md",
-    "Probability/Bayes' Theorem.md",
-    "Complex Number/Real Number/Polynomial.md",
-    "Statistics/Polynomial Regression.md",
-    "Statistics/Random Variables and Distributions.md",
-    "Mathematics.md",
-    "GCD(HCF) & LCM.md",
-    "Statistics/Random Variable.md",
-    "Statistics/Regression Model.md",
-    "Statistics/Null & Alternative Hypotheses.md",
+    "Set Theory/Empty Set.md",
     "Set Theory/Subset.md",
     "Set Theory/Roster Notation.md",
-    "Set Theory/Set.md",
-    "Set Theory/Set Theory.md",
-    "Set Theory/Cardinal Number.md",
-    "Set Theory/Algebra of Sets.md",
-    "Python Libraries/Pandas.md",
-    "Probability/Law of Total Probability.md",
-    "Probability/Principle of Counting.md",
-    "Probability/Simple Bayesian Learning.md",
-    "Probability/Conditional Probability.md",
-    "Probability/Permutations & Combinations.md",
-    "Probability/Inclusion-Exclusion.md",
+    "Branches of Mathematics.canvas",
+    "Ethics/Computer Ethics/Thailand's Law.md",
+    "Ethics/Computer Ethics/Computer Crime Tools.md",
+    "Ethics/Computer Ethics/Computer Criminals.md",
+    "Ethics/Computer Ethics/Computer Ethics Issues.md",
+    "Ethics/Computer Ethics/ACM Code of Ethics.md",
+    "Ethics/Computer Ethics/Certification and Licensing.md",
+    "Ethics/Computer Ethics/Ethical Problem Scenarios.md",
+    "Ethics/Computer Ethics/IT Professional Ethics.md",
+    "Ethics/Computer Ethics/Ten Commandments of Computer Ethics.md",
+    "Images/Inclusion-Exclusion3Sets.png",
+    "Images/DisjointSets.png",
+    "Ethics/Computer Ethics/Axiom of Computer Ethics.md",
+    "Probability/Bayes' Rule.md",
+    "Complex Number/Real Number/Polynomial.md",
+    "Calculus/Calculus Formulas.md",
+    "Ethics/Computer Ethics",
+    "Ethics",
+    "Statistics/Bessel's Correction.md",
+    "Probability/Bayes' Theorem.md",
+    "Statistics/Polynomial Regression.md",
+    "Statistics/Random Variables and Distributions.md",
     "Images/AdditionPrinciple.png",
     "Images/ConditionalProbability.png",
     "Images/MultiplicationPrinciple.png",
