@@ -20,3 +20,6 @@ $$
 a\sum x_2+b\sum x_1x_2+c\sum x_2^2=\sum x_2y&&
 \end{flalign}
 $$
+
+#Mathematics/Statistics
+#CS30KMITL/Year1/Term1/ProbabilityStatistics

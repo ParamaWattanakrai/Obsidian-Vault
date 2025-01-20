@@ -25,3 +25,6 @@ Supporting ethical practices of IT users
 - Install and maintain a corporate firewall
 # 6. Professional-Society
 Hold responsibilities to the society affected by their actions
+
+#Ethics/ComputerEthics
+#CS30KMITL/Year1/Term2/ComputerEthics 

@@ -27,3 +27,6 @@ ACM and IEEE-CS formed a Joint Steering Committee for the Establishment of Softw
 # Section 4: Compliance with the Code
 1. Uphold, promote, and respect the principles of the Code.
 2. Treat violations of the Code as inconsistent with membership in the ACM.
+
+#Ethics/ComputerEthics
+#CS30KMITL/Year1/Term2/ComputerEthics 

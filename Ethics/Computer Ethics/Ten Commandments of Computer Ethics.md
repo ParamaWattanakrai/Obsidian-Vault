@@ -8,3 +8,6 @@
 8. Thou shalt not appropriate other people's intellectual output.
 9. Thou shalt think about the social consequences of the program you are writing or the system you are designing.
 10. Thou shalt always use a computer in ways that ensure consideration and respect for other humans.
+
+#Ethics/ComputerEthics
+#CS30KMITL/Year1/Term2/ComputerEthics 

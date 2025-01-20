@@ -18,3 +18,5 @@ $$
 # Least Squares Estimation
 Is how the formulas for approximating $a$ and $b$ came to be.
 
+#Mathematics/Statistics
+#CS30KMITL/Year1/Term1/ProbabilityStatistics

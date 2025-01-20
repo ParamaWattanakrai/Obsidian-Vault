@@ -33,3 +33,7 @@ SQL Injection exploits server-side database vulnerability
 - Injects SQL query which returns sensitive information
 # 10. Sidejacking
 Intercepts unencrypted information like cookies during transmission
+
+#CyberSecurity
+#Ethics/ComputerEthics
+#CS30KMITL/Year1/Term2/ComputerEthics 

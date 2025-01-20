@@ -15,3 +15,6 @@ The problem of computer ethics is that common wisdom may not exist for novel sit
 # Professional Code of Ethics
 1. Aspirations of the organization
 2. Rules and/or principles for the members
+
+#Ethics/ComputerEthics
+#CS30KMITL/Year1/Term2/ComputerEthics 

@@ -1,24 +1,26 @@
 {
 	"nodes":[
 		{"id":"93bd350aa0b1e4fd","type":"text","text":"Number Theory","x":-258,"y":-183,"width":198,"height":60},
-		{"id":"eb5ab6f825cf8f63","type":"text","text":"Arithmetic","x":180,"y":-30,"width":158,"height":60},
+		{"id":"eb5ab6f825cf8f63","type":"text","text":"Arithmetic","x":180,"y":-30,"width":160,"height":60},
 		{"id":"22adf29b7131faac","type":"text","text":"Algebra","x":397,"y":-30,"width":149,"height":60},
 		{"id":"9cedeeee9c11a7f8","type":"text","text":"Proof","x":-820,"y":-30,"width":103,"height":60},
 		{"id":"8ba5095c2f5abe25","type":"text","text":"Logics","x":-579,"y":-30,"width":109,"height":60},
 		{"id":"97b54feb39426bab","type":"text","text":"Discrete Mathematics","x":-400,"y":-30,"width":180,"height":60},
 		{"id":"2c00848795f90566","type":"text","text":"Combinatorics","x":-660,"y":70,"width":190,"height":60},
 		{"id":"6db71783cbf883d6","type":"text","text":"Polynomial","x":652,"y":-160,"width":168,"height":60},
-		{"id":"9722c74b2d30ab99","type":"text","text":"Limit","x":652,"y":-30,"width":123,"height":60},
-		{"id":"71b59a4623939401","type":"file","file":"Mathematics.md","x":-158,"y":-30,"width":258,"height":60},
-		{"id":"ddc82d40024f5602","type":"text","text":"Calculus","x":652,"y":130,"width":133,"height":60},
 		{"id":"46385a6c7c75ccb5","type":"file","file":"GCD(HCF) & LCM.md","x":-517,"y":-340,"width":347,"height":60},
 		{"id":"257acecfe14dffd7","type":"file","file":"Probability/Probability.md","x":-964,"y":70,"width":247,"height":59},
-		{"id":"6d4290c6a0a2a6c7","type":"text","text":"Geometry","x":-109,"y":130,"width":161,"height":60},
 		{"id":"3fe57c0bc1b50531","type":"text","text":"Trigonometry","x":383,"y":130,"width":177,"height":60},
-		{"id":"c3b2080fd366217e","x":-583,"y":-130,"width":113,"height":57,"type":"file","file":"Set Theory/Set.md"},
+		{"id":"c3b2080fd366217e","type":"file","file":"Set Theory/Set.md","x":-583,"y":-130,"width":113,"height":57},
 		{"id":"a96cba75eaa2de34","type":"text","text":"Statistics","x":31,"y":-183,"width":138,"height":60},
-		{"id":"21e0b00d9a9ed0d0","type":"text","text":"Linear Algebra","x":880,"y":-160,"width":180,"height":60},
-		{"id":"c1c0332b4a36874a","type":"text","text":"Matrix","x":1120,"y":-160,"width":109,"height":60}
+		{"id":"71b59a4623939401","type":"file","file":"Mathematics.md","x":-164,"y":-30,"width":264,"height":60},
+		{"id":"6d4290c6a0a2a6c7","type":"text","text":"Geometry","x":-112,"y":130,"width":161,"height":60},
+		{"id":"65f18b8ed38b244a","type":"text","text":"Sequences","x":652,"y":-30,"width":161,"height":60},
+		{"id":"ddc82d40024f5602","type":"text","text":"Calculus","x":652,"y":130,"width":133,"height":60},
+		{"id":"21e0b00d9a9ed0d0","type":"text","text":"Linear Algebra","x":900,"y":-160,"width":180,"height":60},
+		{"id":"c1c0332b4a36874a","type":"text","text":"Matrix","x":1140,"y":-160,"width":109,"height":60},
+		{"id":"9722c74b2d30ab99","type":"text","text":"Limit","x":900,"y":-30,"width":123,"height":60},
+		{"id":"49aa49a7fff1cc49","type":"text","text":"Series","x":900,"y":86,"width":123,"height":60}
 	],
 	"edges":[
 		{"id":"04ce2fdca9a8e4c0","fromNode":"71b59a4623939401","fromSide":"top","toNode":"93bd350aa0b1e4fd","toSide":"bottom"},
@@ -37,9 +39,11 @@
 		{"id":"a34a0587755ccbf8","fromNode":"71b59a4623939401","fromSide":"right","toNode":"eb5ab6f825cf8f63","toSide":"left"},
 		{"id":"e475ad21cd86ac75","fromNode":"eb5ab6f825cf8f63","fromSide":"right","toNode":"22adf29b7131faac","toSide":"left"},
 		{"id":"0a2b50c79c970eae","fromNode":"93bd350aa0b1e4fd","fromSide":"top","toNode":"46385a6c7c75ccb5","toSide":"bottom"},
-		{"id":"d00751be367a28f9","fromNode":"22adf29b7131faac","fromSide":"right","toNode":"9722c74b2d30ab99","toSide":"left"},
 		{"id":"c36f38cabbb8f3fc","fromNode":"3fe57c0bc1b50531","fromSide":"right","toNode":"ddc82d40024f5602","toSide":"left"},
 		{"id":"291ca6e70e3bfe9a","fromNode":"2c00848795f90566","fromSide":"left","toNode":"257acecfe14dffd7","toSide":"right"},
-		{"id":"82cb36b1ea068ea9","fromNode":"97b54feb39426bab","fromSide":"left","toNode":"c3b2080fd366217e","toSide":"right"}
+		{"id":"82cb36b1ea068ea9","fromNode":"97b54feb39426bab","fromSide":"left","toNode":"c3b2080fd366217e","toSide":"right"},
+		{"id":"d91f9aeadfa68a11","fromNode":"22adf29b7131faac","fromSide":"right","toNode":"65f18b8ed38b244a","toSide":"left"},
+		{"id":"e2a31ebde9e14ec0","fromNode":"65f18b8ed38b244a","fromSide":"right","toNode":"9722c74b2d30ab99","toSide":"left"},
+		{"id":"3ae546949c9fc8df","fromNode":"65f18b8ed38b244a","fromSide":"right","toNode":"49aa49a7fff1cc49","toSide":"left"}
 	]
 }

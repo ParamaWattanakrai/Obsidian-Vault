@@ -4,3 +4,6 @@ There are 2 types of probability distribution:
 	- [[Uniform Distribution]]: 
 	- 
 1. Absolutely continuous probability distribution
+
+#Mathematics/Statistics
+#CS30KMITL/Year1/Term1/ProbabilityStatistics

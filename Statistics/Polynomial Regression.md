@@ -20,3 +20,6 @@ $$
 a\sum x^2+b\sum x^3+c\sum x^4=\sum x^2y&&
 \end{flalign}
 $$
+
+#Mathematics/Statistics
+#CS30KMITL/Year1/Term1/ProbabilityStatistics

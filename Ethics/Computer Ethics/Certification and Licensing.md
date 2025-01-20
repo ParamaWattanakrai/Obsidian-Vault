@@ -10,3 +10,6 @@ Certificates are proofs of skills
 # Licensing
 - Computer personnels don't have licensing yet
 - No universal code of ethics, but many organizations have their own
+
+#Ethics/ComputerEthics
+#CS30KMITL/Year1/Term2/ComputerEthics 

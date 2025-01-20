@@ -14,3 +14,6 @@ $$
 s=\sqrt{\frac{\sigma^2}{n}}=\frac{\sigma}{\sqrt{n}}&&
 \end{flalign}
 $$
+
+#Mathematics/Statistics
+#CS30KMITL/Year1/Term1/ProbabilityStatistics

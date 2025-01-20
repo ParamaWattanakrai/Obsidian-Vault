@@ -4,3 +4,6 @@
 4. Do they have responsibilities to people affected?
 5. Was there a better course of action?
 6. What additional information, if any, would help answer the problem?
+
+#Ethics/ComputerEthics
+#CS30KMITL/Year1/Term2/ComputerEthics 
