@@ -1,4 +1,7 @@
 # 1. Virus
+- Hides in programs
+- Spreads by making copies and sending files
+- Relies on human to interact with the carrier program
 # 2. Worm
 - Focuses on virality and severity
 - Can self replicate
