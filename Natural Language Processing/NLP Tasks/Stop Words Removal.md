@@ -1,0 +1,1 @@
+Are a set of commonly used words in a language which do not add any value to the analysis.

@@ -8,45 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ad1be38fe7b6dd6",
+            "id": "3727deaf468eaa9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Programming Tools/Google Colaboratory/Basic Use.md",
+                "file": "Natural Language Processing/Text Segmentation/Text Segmentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Use"
-            }
-          },
-          {
-            "id": "ead7b23705747bfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/CS30Stats/google.colab.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "google.colab"
-            }
-          },
-          {
-            "id": "639cb933d6a6ecb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Natural Language Processing/TF-IDF.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TF-IDF"
+              "title": "Text Segmentation"
             }
           }
         ]
@@ -190,11 +162,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ad1be38fe7b6dd6",
+  "active": "3727deaf468eaa9c",
   "lastOpenFiles": [
+    "Natural Language Processing/NLP Tasks/Text Processing.md",
+    "Natural Language Processing/Text Segmentation/Text Segmentation.md",
+    "Natural Language Processing/Text Segmentation",
+    "Natural Language Processing/NLP Tasks/Text Enrichment or Augmentation.md",
+    "Programming/Programming Languages/Anonymous Function.md",
+    "Programming/Programming Languages/Pseudocode.md",
+    "Natural Language Processing/NLP Tasks/Stop Words Removal.md",
+    "Natural Language Processing/NLP Tasks/Parts-of-Speech (POS) Tagging.md",
+    "Natural Language Processing/NLP Tasks/NLP Tasks.md",
+    "Natural Language Processing/NLP Tasks/Noise Removal.md",
+    "Natural Language Processing/NLP Tasks/Normalization.md",
+    "Natural Language Processing/NLP Tasks/Stemming & Lemmatization.md",
+    "Natural Language Processing/Level of Understanding/Level of Understanding.md",
+    "Natural Language Processing/Level of Understanding",
+    "Programming/Programming Tools/Google Colaboratory/Basic Use.md",
+    "Natural Language Processing/NLP Tasks",
     "Statistics/CS30Stats/google.colab.md",
     "Natural Language Processing/TF-IDF.md",
-    "Programming/Programming Tools/Google Colaboratory/Basic Use.md",
     "Data Science/Data Science.md",
     "Programming/Programming Tools/Google Colaboratory",
     "Programming/Programming Tools",
@@ -203,9 +190,7 @@
     "Statistics/Hypothesis Testing Formulas.md",
     "Data Science/Vocabularies in Data Science.md",
     "Programming/Programming Paradigms/Object-Oriented Programming (OOP)/Encapsulation.md",
-    "Programming/Programming Languages/Pseudocode.md",
     "Programming/Programming Languages/Precedence of Operation.md",
-    "Programming/Programming Languages/Anonymous Function.md",
     "Programming/Programming Paradigms/Object-Oriented Programming (OOP)/Unified Modeling Language (UML).md",
     "Programming/Programming Paradigms/Object-Oriented Programming (OOP)/Inheritance.md",
     "Programming/Programming Paradigms",
@@ -214,24 +199,11 @@
     "Programming/Programming Paradigms/Object-Oriented Programming (OOP)",
     "Dataset.md",
     "Mathematics.md",
-    "Sources.md",
-    "Probability/Probability.md",
-    "Probability/Probability Theory.md",
-    "Statistics/Probability with Permutation & Combination.md",
     "Number Theory",
-    "Number Theory/GCD(HCF) & LCM.md",
-    "Representation/Signed Integers.md",
     "Programming",
-    "Ethics/Computer Ethics/Thailand's Law.md",
-    "Ethics/Computer Ethics/CS30Ethics/Scenarios.md",
-    "Ethics/Computer Ethics/ACM Code of Ethics.md",
-    "Ethics/Computer Ethics/CS30Ethics",
-    "Ethics/Computer Ethics/Axiom of Computer Ethics.md",
     "Complex Number/Complex Number Tree.canvas",
-    "Sequences",
     "Images/Inclusion-Exclusion3Sets.png",
     "Images/DisjointSets.png",
-    "Ethics/Computer Ethics",
     "Images/AdditionPrinciple.png",
     "Images/ConditionalProbability.png",
     "Images/MultiplicationPrinciple.png",
