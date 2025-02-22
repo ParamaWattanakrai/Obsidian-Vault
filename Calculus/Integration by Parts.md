@@ -10,7 +10,7 @@ $$
 $$
 $$
 \begin{flalign}
-\int_{}dudv=\int_{}udv+\int{}vdu&&
+\int uv\,dx=uv-\int v\frac{du}{dx}\,dx+C&&
 \end{flalign}
 $$
 
