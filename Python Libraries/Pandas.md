@@ -99,7 +99,7 @@ reviews.apply(remean_points, axis='columns')
 
 ## Grouping
 ```python
-df.groupby('attribute')
+df.groupby('attribute')['attribute'].describe()
 ```
 
 Using built in operations (faster)

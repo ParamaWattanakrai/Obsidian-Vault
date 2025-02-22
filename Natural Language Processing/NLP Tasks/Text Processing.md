@@ -1,0 +1,8 @@
+- Lowercasing
+- [[Stemming & Lemmatization]]
+	- Stemming
+	- Lemmatization
+- [[Stop Words Removal]]
+- [[Normalization]]
+- [[Noise Removal]]
+- [[Text Enrichment or Augmentation]]

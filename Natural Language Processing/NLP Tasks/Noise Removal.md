@@ -1,0 +1,1 @@
+Removing characters that can interfere with the analysis.

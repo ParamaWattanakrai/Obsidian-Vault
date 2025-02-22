@@ -1,0 +1,1 @@
+Transforming a text into a canonical (standard) form.
