@@ -1,15 +1,15 @@
 
-| Rule           | Derivative                                                         | Integral                                                                  |
-| -------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------- |
-| Constant       | $\begin{flalign}\frac{d}{dx}a=0\end{flalign}$                      | $\begin{flalign}\int a\,dx=ax+C\end{flalign}$                             |
-| Power          | $\begin{flalign}\frac{d}{dx}x^n=nx^{n-1}\end{flalign}$             | $\begin{flalign}\int x^n\,dx=\frac{x^{n+1}}{n+1}+C\end{flalign}$          |
-| Addition       | $\begin{flalign}(u+v)'=u'+v'\end{flalign}$                         | $\begin{flalign}\int u+v\,dx=\int u\,dx+\int v\,dx+C\end{flalign}$        |
-| Product        | $\begin{flalign}(u\cdot v)'=uv'+vu'\end{flalign}$                  | $\begin{flalign}\int uv\,dx=uv-\int v\frac{du}{dx}\,dx+C\end{flalign}$    |
-| Quotient       | $\begin{flalign}(\frac{u}{v})'=\frac{vu'-uv'}{v^2}\end{flalign}$   | Use $v$ as $v^{-1}$ as product                                            |
-| Exponent       | $\begin{flalign}\frac{d}{dx}a^x=a^x\ln a\end{flalign}$             | $\begin{flalign}\int a^x\,dx=\frac{a^x}{\ln a}+C\end{flalign}$            |
-| Natural Log    | $\begin{flalign}\frac{d}{dx}\ln x=\frac{1}{x}\end{flalign}$        | $\begin{flalign}\int \ln x\,dx=x\ln x-x+C\end{flalign}$                   |
-| Logarithm      | $\begin{flalign}\frac{d}{dx}\log_ax=\frac{1}{x\ln a}\end{flalign}$ | $\begin{flalign}\int \log_ax\,dx=x\log_ax-\frac{x}{\ln a}+C\end{flalign}$ |
-| Euler's Number | $\begin{flalign}\frac{d}{dx}e^x=e^x\end{flalign}$                  | $\begin{flalign}\int e^x\,dx=e^x+C\end{flalign}$                          |
+| Rule           | Derivative                                                         | Integral                                                                           |
+| -------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| Constant       | $\begin{flalign}\frac{d}{dx}a=0\end{flalign}$                      | $\begin{flalign}\int a\,dx=ax+C\end{flalign}$                                      |
+| Power          | $\begin{flalign}\frac{d}{dx}x^n=nx^{n-1}\end{flalign}$             | $\begin{flalign}\int x^n\,dx=\frac{x^{n+1}}{n+1}+C\end{flalign}$                   |
+| Addition       | $\begin{flalign}(u+v)'=u'+v'\end{flalign}$                         | $\begin{flalign}\int u+v\,dx=\int u\,dx+\int v\,dx+C\end{flalign}$                 |
+| Product        | $\begin{flalign}(u\cdot v)'=uv'+vu'\end{flalign}$                  | $\begin{flalign}\int u\frac{dv}{dx}\,dx=uv-\int v\frac{du}{dx}\,dx+C\end{flalign}$ |
+| Quotient       | $\begin{flalign}(\frac{u}{v})'=\frac{vu'-uv'}{v^2}\end{flalign}$   | Use $v$ as $v^{-1}$ as product                                                     |
+| Exponent       | $\begin{flalign}\frac{d}{dx}a^x=a^x\ln a\end{flalign}$             | $\begin{flalign}\int a^x\,dx=\frac{a^x}{\ln a}+C\end{flalign}$                     |
+| Natural Log    | $\begin{flalign}\frac{d}{dx}\ln x=\frac{1}{x}\end{flalign}$        | $\begin{flalign}\int \ln x\,dx=x\ln x-x+C\end{flalign}$                            |
+| Logarithm      | $\begin{flalign}\frac{d}{dx}\log_ax=\frac{1}{x\ln a}\end{flalign}$ | $\begin{flalign}\int \log_ax\,dx=x\log_ax-\frac{x}{\ln a}+C\end{flalign}$          |
+| Euler's Number | $\begin{flalign}\frac{d}{dx}e^x=e^x\end{flalign}$                  | $\begin{flalign}\int e^x\,dx=e^x+C\end{flalign}$                                   |
 # Trigonometric Functions
 
 |                                                         |                                                          |

@@ -10,7 +10,7 @@ $$
 $$
 $$
 \begin{flalign}
-\int uv\,dx=uv-\int v\frac{du}{dx}\,dx+C&&
+\int u\frac{dv}{dx}\,dx=uv-\int v\frac{du}{dx}\,dx+C&&
 \end{flalign}
 $$
 
