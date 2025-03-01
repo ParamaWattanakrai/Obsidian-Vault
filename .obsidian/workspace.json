@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -248,13 +248,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "507bb4d9fd1d0232",
+  "active": "592ecfcfdb3bb895",
   "lastOpenFiles": [
-    "Python Libraries/pandas.md",
+    "Python Libraries/NumPy.md",
     "Python Libraries/SymPy.md",
     "Statistics/CS30Stats/pandas Matplotlib seaborn.md",
+    "Python Libraries/pandas.md",
     "Python Libraries/Matplotlib.md",
-    "Python Libraries/NumPy.md",
     "Statistics/CS30Stats/Python Libraries for Data Science.md",
     "Statistics/CS30Stats/NumPy SciPy statsmodels scikit-learn.md",
     "Calculus/Calculus Formulas.md",
