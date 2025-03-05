@@ -21,6 +21,23 @@ linear_space = np.linspace(0, 10, 5)
 ```
 Both returns `[ 0. 2.5 5. 7.5 10. ]`
 
+# Meshgrid
+Creates 2d nparray out of 2 1d nparrays
+
+```python
+x = np.array([1, 2, 3, 4])
+y = np.array([10, 20])
+X, Y = np.meshgrid(x, y)
+
+print(f'X: {X.shape}\n {X}')
+print(f'Y: {Y.shape}\n {Y}')
+#X: (2, 4)
+# [[1 2 3 4]
+# [1 2 3 4]]
+#Y: (2, 4)
+# [[10 10 10 10]
+# [20 20 20 20]]
+```
 # Sources
 https://numpy.org/doc/stable/reference/index.html
 

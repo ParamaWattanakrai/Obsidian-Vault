@@ -13,7 +13,6 @@ print(sym.N(expression, digit))
 x, y, z = sym.symbols('x y z')
 u = 2*x - 7*y + z**2
 ```
-
 # Expansion
 ```python
 sol = sym.expand(expression)
@@ -172,7 +171,7 @@ print(float(sol)) #0.3333333333333333
 
 # Lambdify
 ```python
-function = sym.lambdify(variable, experssion)
+function = sym.lambdify(variable, experssion, )
 ```
 
 ```python
@@ -183,6 +182,39 @@ sol = f.series(x, x0=0, n=5).removeO()
 f_numeric = sym.lambdify(x, f, 'numpy')
 taylor_numeric = sym.lambdify(x, sol, 'numpy')
 ```
+# Function & Equation
+```python
+f = sym.Function('f')
+eq = sym.eq(left_side, right_side)
+```
+
+$$\begin{flalign}
+\frac{df(x)}{dx}=x&&
+\end{flalign}$$
+```python
+x = sym.symbols('x')
+f = sym.Function('f')
+eq = sym.Eq(sym.diff(f(x), x), x)
+
+print(eq) #Eq(Derivative(f(x), x), x)
+```
+# Differential Equation
+```python
+sol = sym.dsolve(ode, function)
+```
+
+$$\begin{aligned}
+\frac{dy(x)}{dx} &= x^2 \\
+y(x) &= \frac{x^3}{3} + C
+\end{aligned}$$
+```python
+x = sym.symbols('x')
+y = sym.Function('y')
+ode = sym.Eq(y(x).diff(x), x**2)
+sol = sym.dsolve(ode, y(x))
+print(sol) #Eq(y(x), C1 + x**3/3)
+```
+
 # Sources
 https://docs.sympy.org/latest/reference/index.html
 
