@@ -44,7 +44,7 @@ results_df.describe().style.format('{:, .2f}')
 
 Importing Matplotlib
 ```python
-import matplotlib.pyplot as plt               # Pyplot interface for plotting
+import matplotlib.pyplot as plt #Pyplot interface for plotting
 ```
 
 Dump Matplotlib

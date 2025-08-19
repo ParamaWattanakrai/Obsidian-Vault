@@ -10,7 +10,6 @@
 		{"id":"64da378d995a8815","type":"text","text":"String","x":1432,"y":157,"width":123,"height":60},
 		{"id":"5860e41253f04bb1","type":"text","text":"Classes","x":1082,"y":157,"width":132,"height":60},
 		{"id":"6bf917afafa62863","type":"text","text":"Arrays","x":1252,"y":157,"width":110,"height":60},
-		{"id":"f7861d20966584bc","type":"text","text":"Integer","x":194,"y":480,"width":117,"height":60},
 		{"id":"66371122d800dac1","type":"text","text":"Floating Point","x":1867,"y":480,"width":178,"height":60},
 		{"id":"be8969e89585cb4a","type":"text","text":"2,147,483,647","x":448,"y":1428,"width":181,"height":60},
 		{"id":"91a9182c1f06279e","type":"text","text":"-9,223,372,036,854,775,808L","x":677,"y":1328,"width":308,"height":60},
@@ -58,7 +57,8 @@
 		{"id":"2a2af4ab76d6aa6d","type":"text","text":"16 bits","x":-800,"y":828,"width":121,"height":60},
 		{"id":"50b93a063fb6f2d0","type":"text","text":"0b\n11111111","x":-699,"y":988,"width":146,"height":80},
 		{"id":"1d6de74d3843cf90","type":"text","text":"char","x":-789,"y":720,"width":99,"height":60},
-		{"id":"c57ee3f96fee8a07","type":"text","text":"0b\n00000000","x":-919,"y":988,"width":146,"height":80}
+		{"id":"c57ee3f96fee8a07","type":"text","text":"0b\n00000000","x":-919,"y":988,"width":146,"height":80},
+		{"id":"f7861d20966584bc","type":"text","text":"Integer","x":136,"y":500,"width":117,"height":60}
 	],
 	"edges":[
 		{"id":"efc96e98bd4342e1","fromNode":"3905ee295272e9e4","fromSide":"bottom","toNode":"fb8d24e78149db7c","toSide":"top"},
